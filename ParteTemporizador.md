@@ -6,4 +6,4 @@ Completando los periodos de estudio, recibirá tokens con los que pueda interact
 
 Al inicio y al final de cada período de tiempo, se le notificará al usuario a través de la mascota.
 
-La mascota puedeser cualquier animal vivo o muerto(no muerto de  verdad, muerto de extinto)
+La mascota puedeser cualquier animal actual o histórico/prehistórico
