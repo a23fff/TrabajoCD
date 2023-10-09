@@ -7,3 +7,6 @@ Completando los periodos de estudio, recibirá tokens con los que pueda interact
 Al inicio y al inal de cada período de tiempo, se le notificará al usuario a través de la mascota.
 
 
+Al inicio y al final de cada período de tiempo, se le notificará al usuario a través de la mascota.
+
+La mascota puedeser cualquier animal actual o histórico/prehistórico
